@@ -4,7 +4,7 @@
 > <h1>Criando um Aplicativo para setor Fitness Tracker, Calculadora que vai medir o IMC</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/147158726-c823bd5e-4d90-42d5-a4d2-2d08f7656a3e.png"/>
+<img src="https://user-images.githubusercontent.com/79487813/147418883-7528c430-07ce-4dea-8a91-e0d54f080458.png"/>
 </P>
 
 
