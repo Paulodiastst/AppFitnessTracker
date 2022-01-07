@@ -11,11 +11,11 @@
 <p align="center"> Em desenvolvimento ⚠️  </p> 
 
 
- - Setup do projeto 
- - Intenções e Activies
- - Criando formulários
- - Criando estilos de componentes
- - Validação de formulários
+ - Setup do projeto [x]
+ - Intenções e Activies [x]
+ - Criando formulários [x]
+ - Criando estilos de componentes [x]
+ - Validação de formulários [x]
  - Criando dialogs / PopUps
  - Gerenciando Teclado
  - Migrando para Java 8
